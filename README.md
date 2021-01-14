@@ -1,2 +1,4 @@
 # Pakistan COVID 19 Folium Map
- This was our assignment 2 in datascinece 
+ This was our assignment 2 in Data Science 
+
+ https://github.com/Arose-Niazi/Data-Science
